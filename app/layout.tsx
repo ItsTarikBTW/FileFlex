@@ -22,7 +22,7 @@ export default function RootLayout({
       <head>
         <script
           defer
-          src="https://umami.itstarik.me/script.js"
+          src="https://umami.itstarik.tech/script.js"
           data-website-id="d0c2020c-e652-4198-80d7-7168687b9c70"
         ></script>
       </head>
